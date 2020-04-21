@@ -1,0 +1,36 @@
+C:\Users\pc6sb-7\source\repos\equipos\equipos\bin\Debug\equipos.exe.config
+C:\Users\pc6sb-7\source\repos\equipos\equipos\bin\Debug\equipos.exe
+C:\Users\pc6sb-7\source\repos\equipos\equipos\bin\Debug\equipos.pdb
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.csprojAssemblyReference.cache
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.Form1.resources
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.Properties.Resources.resources
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.csproj.GenerateResource.cache
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.csproj.CoreCompileInputs.cache
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.exe
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.pdb
+C:\Users\pc6sb-7\source\repos\equipos\equipos\obj\Debug\equipos.Form2.resources
+C:\Users\indep\source\repos\equipos\equipos\bin\Debug\equipos.exe.config
+C:\Users\indep\source\repos\equipos\equipos\bin\Debug\equipos.exe
+C:\Users\indep\source\repos\equipos\equipos\bin\Debug\equipos.pdb
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.csprojAssemblyReference.cache
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.Form1.resources
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.Properties.Resources.resources
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.csproj.GenerateResource.cache
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.csproj.CoreCompileInputs.cache
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.exe
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.pdb
+C:\Users\indep\source\repos\equipos\equipos\bin\Debug\es-CO\equipos.resources.dll
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\equipos.Form1.es-CO.resources
+C:\Users\indep\source\repos\equipos\equipos\obj\Debug\es-CO\equipos.resources.dll
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\bin\Debug\equipos.exe.config
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\bin\Debug\equipos.exe
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\bin\Debug\equipos.pdb
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\bin\Debug\es-CO\equipos.resources.dll
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.Form1.resources
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.Properties.Resources.resources
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.Form1.es-CO.resources
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.csproj.GenerateResource.Cache
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.csproj.CoreCompileInputs.cache
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\es-CO\equipos.resources.dll
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.exe
+F:\Universidad\Primer Semestre\Fundamentos de Programación\equipos\equipos\obj\Debug\equipos.pdb
